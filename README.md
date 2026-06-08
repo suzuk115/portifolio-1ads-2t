@@ -1,2 +1,2 @@
 # portifolio-1ads-2t
-projeto desenvolvido no colegio dr gastão vidigal, na turma do 1ads, no ano de 2026, o objetivo desse portifolio é descrever a utilidade e a função de cada codigo do html, css e 35. as imagem, videos e audios que aqui estão
+projeto desenvolvido no colegio dr gastão vidigal, na turma do 1ads, no ano de 2026, o objetivo desse portifolio é descrever a utilidade e a função de cada codigo do html, css e 35. as imagem, videos e audios que aqui estão, foram retirados....
